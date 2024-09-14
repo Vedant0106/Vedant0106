@@ -27,6 +27,9 @@ v## Hi there, I'm Vedant! 👋
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft-power-platform&logoColor=white)
+
 
 
 
@@ -38,6 +41,13 @@ I'm always on the lookout for exciting opportunities to collaborate on challengi
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastava.vedant0106@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vedant0106/)
+
+## Coding Platforms
+## 📫 Reach Out
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vedant0106/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Vedant0106/)
+
 
 <!--
 **Vedant0106/Vedant0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
