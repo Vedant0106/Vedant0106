@@ -6,7 +6,7 @@
 - 🌱 I’m learning: TypeScript, Advanced React patterns
 - 🎯 Goals: To contribute to impactful open-source projects
 - 💬 Ask me about: Software development, SharePoint, Java, JWT, JUnit
-- ⚡ Fun fact: I love solving over 500+ coding challenges on LeetCode & GeeksForGeeks!
+- ⚡ Fun fact: I love solving coding challenges on LeetCode & GeeksForGeeks!
 
 ### 🛠️ My Tech Stack:
 - **Languages**: Java, TypeScript, Python
@@ -15,7 +15,8 @@
 
 ### 🏆 Achievements:
 - 🎓 Software Consultant at Mercedes-Benz R&D
-- 📊 Built emissions calculation solution for 1900+ data centers
+- 📊 Built a carbon emissions calculation solution for 1900+ data centers calculating their CIF value
+- Solved over 600+ questions on GFG, LEETCODE.
 
 ## 🖥️ Tech Stack
 
