@@ -1,4 +1,4 @@
-## Hi there, I'm Vedant! 👋
+v## Hi there, I'm Vedant! 👋
 
 🚀 **Software Developer@ Mercedes Bnez** | 🌱 **Lifelong Learner** | 🔥 **Problem Solver** 
 
@@ -23,6 +23,11 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![SPFx](https://img.shields.io/badge/SPFx-blue?style=for-the-badge&logo=microsoft&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
+
 
 
 ## 💞 Collaboration
