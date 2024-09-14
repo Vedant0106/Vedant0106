@@ -2,16 +2,16 @@
 
 🚀 **Software Developer@ Mercedes Benz** | 🌱 **Lifelong Learner** | 🔥 **Problem Solver** 
 
-- 🔭 I’m currently working on: React.js, SharePoint, Spring Boot
+- 🔭 I’m currently working on: React, SharePoint, SpringBoot
 - 🌱 I’m learning: TypeScript, Advanced React patterns
 - 🎯 Goals: To contribute to impactful open-source projects
-- 💬 Ask me about: Software development, SharePoint, AI
+- 💬 Ask me about: Software development, SharePoint, Java, JWT, JUnit
 - ⚡ Fun fact: I love solving over 500+ coding challenges on LeetCode & GeeksForGeeks!
 
 ### 🛠️ My Tech Stack:
 - **Languages**: Java, TypeScript, Python
-- **Frameworks**: React.js, Spring Boot, SPFx
-- **Cloud**: Microsoft Azure
+- **Frameworks**: React, SpringBoot, SPFx
+- **Cloud**: Microsoft Azure, Sharepoint
 
 ### 🏆 Achievements:
 - 🎓 Software Consultant at Mercedes-Benz R&D
