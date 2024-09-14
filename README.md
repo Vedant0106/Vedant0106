@@ -1,6 +1,6 @@
 ## Hi there, I'm Vedant! 👋
 
-🚀 **Software Developer@ Mercedes Benz** | 🌱 **Lifelong Learner** | 🔥 **Problem Solver** 
+🚀 **Software Developer@ Mercedes Benz** | 🌱 **Technical Philomath** | 🔥 **Problem Solver** 
 
 - 🔭 I’m currently working on: React, SharePoint, SpringBoot
 - 🌱 I’m learning: TypeScript, Advanced React patterns
