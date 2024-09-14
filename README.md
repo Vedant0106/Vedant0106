@@ -1,4 +1,4 @@
-v## Hi there, I'm Vedant! 👋
+## Hi there, I'm Vedant! 👋
 
 🚀 **Software Developer@ Mercedes Bnez** | 🌱 **Lifelong Learner** | 🔥 **Problem Solver** 
 
