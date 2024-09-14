@@ -20,7 +20,7 @@
 ## 🖥️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![SPFx](https://img.shields.io/badge/SPFx-blue?style=for-the-badge&logo=microsoft&logoColor=white)
