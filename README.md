@@ -1,100 +1,87 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Vedant+Srivastava;Frontend+Developer+%7C+React+%7C+TypeScript;&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=40&lines=Vedant+Srivastava+-+Frontend+Engineer+(React+%7C+TypeScript+%7C+TailwindCSS)" alt="Typing Intro" />
 </h1>
 
 <p align="center">
-  <strong>Software Engineer @ Mercedes-Benz R&D</strong>
+  Frontend Developer | React.js | TypeScript | TailwindCSS | Fluent UI | UI/UX
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vedant0106&label=Profile+Views&color=brightgreen&style=flat" alt="Vedant0106" />
+  <img src="https://komarev.com/ghpvc/?username=Vedant0106&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 💼 Frontend Consultant @ **Mercedes-Benz R&D**
-- ⚛️ Expert in building scalable, performant, and responsive UIs with **React.js** and **TypeScript**
-- 🎯 Focused on pixel-perfect UI, accessibility (a11y), design systems, and DX
-- 🎨 UI/UX enthusiast: I love transforming wireframes into intuitive, production-ready interfaces
-- 🧠 Solved 600+ DSA problems on **LeetCode** and **GeeksforGeeks**
+- Frontend Consultant at **Mercedes-Benz R&D**
+- Focused on performance, accessibility, design systems, and developer experience
+- Passionate about crafting modern interfaces using React and design-first principles
+- 600+ problems solved on **LeetCode** and **GeeksforGeeks**
 
 ---
 
-### 🛠️ My Tech Toolbox
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,css,html,figma,materialui,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,scss,css,html,materialui,figma,git,vite&theme=light" />
 </p>
 
 ---
 
-### 🔥 Featured Work
+### Featured Work
 
-### - ✉️ **Newsletter Submission System**  
-*A modern React single-page app for submitting internal newsletters with intuitive UX, reusable components, and dynamic field logic.*  
-⮞ **Built with:** React, TypeScript, Fluent UI, Tailwind
+#### Newsletter Submission System  
+A single-page content submission tool for internal newsletters with form validation, dynamic field rendering, and role-based UI logic.  
+**Tech:** React, TypeScript, Fluent UI, TailwindCSS
 
-### - 📊 **Demand Dashboard**  
-*A real-time dashboard built with React, Fluent UI, and Chart.js to track team workload.*  
-⮞ Includes filters, dynamic graphs, assignment tracking, and responsive layouts.
+#### Demand Dashboard  
+Real-time React dashboard to visualize and filter demand and workload across multiple projects.  
+**Tech:** React, Chart.js, Fluent UI, TailwindCSS
 
-### - 🌍 **Carbon CIF Calculator**  
-*Frontend connected to Spring Boot backend to calculate and visualize carbon intensity for 1900+ data centers.*  
-⮞ **Tech:** React, REST API integration, Tailwind
+#### Carbon CIF Calculator  
+Frontend for Spring Boot API to display and analyze carbon emissions data from 1900+ global data centers.  
+**Tech:** React, REST APIs, TailwindCSS
 
-### - 👥 **Project Assignment Visualizer**  
-*A tool to visualize team allocations via dropdowns and charts using Chart.js and modular state management.*  
-⮞ React hooks, custom dropdowns, responsive charts
+#### Project Assignment Visualizer  
+Interactive chart interface to show people-to-project mappings using dropdowns and filterable datasets.  
+**Tech:** React, Chart.js, modular component design
 
-### - 🧩 **Reusable UI Component Library**  
-*Internal library of React + TypeScript components like Modals, Dropdowns, Loaders, Toasts, etc.*  
-⮞ Styled using SCSS + Tailwind for design consistency across apps.
-
----
-
-### 💼 Work Philosophy
-
-- 🔍 **Clean code** and **reusable components**
-- 🎨 **Design-first development** with strong attention to detail
-- 🚀 Delivering **fast, accessible**, and **user-friendly interfaces**
-- 🤝 Collaborative, feedback-driven frontend development
+#### Reusable UI Component Library  
+Internal component library built with React + TypeScript to provide consistent, scalable UI elements across projects.  
+**Tech:** SCSS, Tailwind, Fluent UI, React
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="mailto:srivastava.vedant0106@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/vedant0106/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-vedant0106-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Vedant_0106/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-vedant0106-yellow?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/vedant0106/practice">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-vedant0106-brightgreen?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://medium.com/@vedant0106">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Articles-black?style=flat-square&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant0106&show_icons=true&theme=radical" alt="Vedant's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant0106&theme=radical&hide_border=false" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant0106&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant0106&theme=default" alt="GitHub Streaks" />
 </p>
 
 ---
 
-### 📌 Fun Fact
-
-> "Frontend development is not just coding — it's **crafting experiences**."
