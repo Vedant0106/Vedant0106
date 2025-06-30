@@ -1,4 +1,11 @@
-<h1 align="center">print("Frontend Developer 🚀")</h1>
+<h1 align="center">👋 Hello, I'm Vedant Srivastava</h1>
+
+---
+
+<p align="center">
+  <strong>Frontend Developer</strong> | React | TypeScript | SPFx | Fluent UI | SharePoint
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vedant0106&label=Profile+Views&color=brightgreen&style=flat" alt="Vedant0106" />
