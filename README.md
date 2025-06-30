@@ -3,8 +3,10 @@
 </h1>
 
 <p align="center">
-  <strong>Software Engineer @ Mercedes-Benz R&D</strong>
+  <img src="https://img.shields.io/badge/Software%20Engineer-Mercedes--Benz%20R%26D-blue?style=for-the-badge&logo=mercedes&logoColor=white" />
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vedant0106&label=Profile+Views&color=brightgreen&style=flat" alt="Vedant0106" />
