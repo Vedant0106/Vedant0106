@@ -49,7 +49,7 @@
 
 ### 📬 Connect with Me
 
-- 📧 Email: [srivastava.vedant0106@gmail.com](mailto:srivastava.vedant0106@gmail.com)  
+- 📧 [srivastava.vedant0106@gmail.com](mailto:srivastava.vedant0106@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vedant0106/)  
 - 🧠 [LeetCode](https://leetcode.com/u/Vedant_0106/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vedant0106/practice)
 
