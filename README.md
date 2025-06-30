@@ -39,22 +39,23 @@
 
 ---
 
-🔥 Featured Work
-- ✉️ Newsletter Submission System
-React-based article submission app with dynamic field rendering, validations, and a clean single-page UX for internal publishing.
+### 🔥 Featured Work
 
-- 📊 Demand Dashboard
-Real-time React dashboard built with Fluent UI and Chart.js to visualize and filter team workload dynamically.
+- ✉️ **Newsletter Submission System** — *A modern React.js single-page application designed to streamline newsletter content submission within the organization. Built with reusable UI components, real-time validations, and smooth UX transitions.
+⮞ Used for internal publishing with support for file uploads, contributor tagging, and clean UI layout.*
 
-- 🌍 Carbon CIF Calculator
-Frontend interface integrated with Spring Boot backend to display carbon emissions data for 1900+ global data centers.
+- 📊 **Demand Dashboard** — *A real-time dashboard built using React.js, Fluent UI, and Chart.js, helping teams visualize incoming demand and workload distribution.
+⮞ Includes dropdown filters, dynamic chart rendering, project-wise insights, and responsive layout for optimal UX across screen sizes.*
 
-- 👥 Project Assignment Visualizer
-Interactive React tool with dropdown filters and dynamic chart rendering to track user-project assignments.
+- 🌍 **Carbon CIF Calculator** — *Frontend integration for a backend service built in Spring Boot, focused on calculating Carbon Intensity Factors (CIF) across 1900+ global data centers.
+⮞ The UI layer includes tabular views, filtering, real-time data integration via REST APIs, and user-focused presentation of environmental metrics.*
 
-- 🧩 Reusable UI Component Library
-Internal library of React + TypeScript components (modals, dropdowns, toasts) to unify UI and improve development speed.
+- 👥 **Project Assignment Visualizer** —*A React-based chart component to track and filter team member assignments. Enables selecting a team member from a dropdown and viewing their current workload and project involvement.
+⮞ Built with scalable state management and modular React components for easy maintenance and updates.*
 
+- 🧩 **Reusable UI Component Library** -*Designed and built an internal React + TypeScript library for common UI elements like dropdowns, modal dialogs, loaders, and toasts.
+⮞ Helped maintain visual consistency and improve development speed across multiple frontend projects.*
+---
 
 ### 📬 Connect with Me
 
