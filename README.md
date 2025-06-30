@@ -1,11 +1,10 @@
-<h1 align="center">👋 Hello, I'm Vedant Srivastava</h1>
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Vedant+Srivastava;Frontend+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind+CSS;&center=true&width=500&height=45" />
+</h1>
 
 <p align="center">
-  <strong>Frontend Developer</strong> | React | TypeScript | SPFx | Fluent UI | SharePoint
+  <strong>UI/UX Engineer @ Mercedes-Benz R&D</strong>
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vedant0106&label=Profile+Views&color=brightgreen&style=flat" alt="Vedant0106" />
@@ -15,53 +14,71 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 UI/UX-driven engineer building modern enterprise web apps
-- 🌱 Learning advanced React patterns, performance optimization & accessibility
-- 💼 Frontend Consultant at Mercedes-Benz R&D
-- ⚡ Fun fact: Solving 600+ coding problems on LeetCode & GeeksforGeeks
+- 🧠 Passionate about **building modern frontend apps** with smooth UX and scalable architecture
+- ⚛️ Expert in **React.js**, **TypeScript**, **Tailwind CSS**, **Fluent UI**, and component design systems
+- 🎯 Focused on accessibility, responsive design, and UI/UX excellence
+- 🧩 Love transforming wireframes into pixel-perfect, production-ready UIs
+- 🧠 Solved 600+ DSA problems on **LeetCode** & **GeeksforGeeks**
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SPFx-0081CB?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fluent UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-03785D?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive Design-FF69B4?style=for-the-badge&logo=responsive&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,scss,css,html,figma,materialui,git,vite&theme=light" />
 </p>
-
 
 ---
 
 ### 🔥 Featured Work
 
-- ✉️ **Newsletter Submission System** — *A modern React.js single-page application designed to streamline newsletter content submission within the organization. Built with reusable UI components, real-time validations, and smooth UX transitions.
-⮞ Used for internal publishing with support for file uploads, contributor tagging, and clean UI layout.*
+### - ✉️ **Newsletter Submission System**  
+*A modern React single-page app for submitting internal newsletters with intuitive UX, reusable components, and dynamic field logic.*  
+⮞ **Built with:** React, TypeScript, Fluent UI, Tailwind
 
-- 📊 **Demand Dashboard** — *A real-time dashboard built using React.js, Fluent UI, and Chart.js, helping teams visualize incoming demand and workload distribution.
-⮞ Includes dropdown filters, dynamic chart rendering, project-wise insights, and responsive layout for optimal UX across screen sizes.*
+### - 📊 **Demand Dashboard**  
+*A real-time dashboard built with React, Fluent UI, and Chart.js to track team workload.*  
+⮞ Includes filters, dynamic graphs, assignment tracking, and responsive layouts.
 
-- 🌍 **Carbon CIF Calculator** — *Frontend integration for a backend service built in Spring Boot, focused on calculating Carbon Intensity Factors (CIF) across 1900+ global data centers.
-⮞ The UI layer includes tabular views, filtering, real-time data integration via REST APIs, and user-focused presentation of environmental metrics.*
+### - 🌍 **Carbon CIF Calculator**  
+*Frontend connected to Spring Boot backend to calculate and visualize carbon intensity for 1900+ data centers.*  
+⮞ **Tech:** React, REST API integration, Tailwind
 
-- 👥 **Project Assignment Visualizer** —*A React-based chart component to track and filter team member assignments. Enables selecting a team member from a dropdown and viewing their current workload and project involvement.
-⮞ Built with scalable state management and modular React components for easy maintenance and updates.*
+### - 👥 **Project Assignment Visualizer**  
+*A tool to visualize team allocations via dropdowns and charts using Chart.js and modular state management.*  
+⮞ React hooks, custom dropdowns, responsive charts
 
-- 🧩 **Reusable UI Component Library** -*Designed and built an internal React + TypeScript library for common UI elements like dropdowns, modal dialogs, loaders, and toasts.
-⮞ Helped maintain visual consistency and improve development speed across multiple frontend projects.*
+### - 🧩 **Reusable UI Component Library**  
+*Internal library of React + TypeScript components like Modals, Dropdowns, Loaders, Toasts, etc.*  
+⮞ Styled using SCSS + Tailwind for design consistency across apps.
+
+---
+
+### 🧠 What I Believe In
+
+- 🔍 **Clean code** and **reusable components**
+- 🎨 **Design-first development** with strong attention to detail
+- 🚀 Delivering **fast, accessible**, and **user-friendly interfaces**
+- 🤝 Collaborative, feedback-driven frontend development
+
 ---
 
 ### 📬 Connect with Me
 
-- 📧 [srivastava.vedant0106@gmail.com](mailto:srivastava.vedant0106@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vedant0106/)  
-- 🧠 [LeetCode](https://leetcode.com/u/Vedant_0106/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vedant0106/practice)
+<p align="center">
+  <a href="mailto:srivastava.vedant0106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vedant0106/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Vedant_0106/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/vedant0106/practice">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -69,4 +86,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedant0106&show_icons=true&theme=radical" alt="Vedant's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant0106&theme=radical&hide_border=false" alt="Streak" />
 </p>
+
+---
+
+### 📌 Fun Fact
+
+> "Frontend development is not just coding — it's **crafting experiences**."
+
+---
+
+Let me know if you'd like to:
+
+- Add **GIF previews or screen recordings** of any project  
+- Generate a **matching portfolio site** using React + Tailwind  
+- Include **open-source badges**, activity graphs, or blog post previews  
+
+I can build you an entire **developer brand** from this if you want 😎
