@@ -39,13 +39,22 @@
 
 ---
 
-### 🔥 Featured Work
+🔥 Featured Work
+- ✉️ Newsletter Submission System
+React-based article submission app with dynamic field rendering, validations, and a clean single-page UX for internal publishing.
 
-- ✉️ **Newsletter Submission System** — Custom SharePoint + Power Automate publishing system  
-- 📊 **Demand Dashboard** — Real-time React dashboard to visualize team workload  
-- 🌍 **Carbon CIF Calculator** — Spring Boot backend for 1900+ global data centers
+- 📊 Demand Dashboard
+Real-time React dashboard built with Fluent UI and Chart.js to visualize and filter team workload dynamically.
 
----
+- 🌍 Carbon CIF Calculator
+Frontend interface integrated with Spring Boot backend to display carbon emissions data for 1900+ global data centers.
+
+- 👥 Project Assignment Visualizer
+Interactive React tool with dropdown filters and dynamic chart rendering to track user-project assignments.
+
+- 🧩 Reusable UI Component Library
+Internal library of React + TypeScript components (modals, dropdowns, toasts) to unify UI and improve development speed.
+
 
 ### 📬 Connect with Me
 
