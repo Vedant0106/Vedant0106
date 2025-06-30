@@ -25,7 +25,7 @@
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,scss,css,html,figma,materialui,git,vite&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,css,html,figma,materialui,git,github&theme=light" />
 </p>
 
 ---
