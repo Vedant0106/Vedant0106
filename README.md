@@ -1,65 +1,77 @@
-## Hi there, I'm Vedant! 👋
+<h1 align="center">Hi, I'm Vedant Srivastava 👋</h1>
+<h3 align="center">Frontend Engineer | UI/UX Specialist | React.js & TypeScript Expert</h3>
 
-🚀 **Software Developer@ Mercedes Benz** | 🌱 **Technical Philomath** | 🔥 **Problem Solver** 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vedant0106&label=Profile+Views&color=brightgreen&style=flat" alt="Vedant0106" />
+</p>
 
-- 🔭 I’m currently working on: React, SharePoint, SpringBoot
-- 🌱 I’m learning: TypeScript, Advanced React patterns
-- 🎯 Goals: To contribute to impactful open-source projects
-- 💬 Ask me about: Software development, SharePoint, Java, JWT, JUnit
-- ⚡ Fun fact: I love solving coding challenges on LeetCode & GeeksForGeeks!
+---
 
-### 🛠️ My Tech Stack:
-- **Languages**: Java, TypeScript, Python
-- **Frameworks**: React, SpringBoot, SPFx
-- **Cloud**: Microsoft Azure, Sharepoint
+🚀 **Frontend Engineer @ Mercedes-Benz R&D**  
+🎨 Crafting clean UI, scalable design systems & enterprise web experiences  
+🌐 Focused on **React.js**, **TypeScript**, **SPFx**, and Microsoft 365 ecosystem  
 
-### 🏆 Achievements:
-- 🎓 Software Consultant at Mercedes-Benz R&D
-- 📊 Built a carbon emissions calculation solution for 1900+ data centers calculating their CIF value
-- Solved over 600+ questions on GFG, LEETCODE.
+---
 
-## 🖥️ Tech Stack
+### 🧑‍💻 About Me
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-yellow?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![SPFx](https://img.shields.io/badge/SPFx-blue?style=for-the-badge&logo=microsoft&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft-power-platform&logoColor=white)
+- 🧠 Frontend-focused engineer with an eye for detail and UX precision  
+- 🌱 Currently learning advanced **React patterns**, **performance optimization**, and **accessibility (a11y)**  
+- 🛠️ Delivered custom SharePoint web parts across multiple internal portals  
+- 🌍 Built an emissions dashboard analyzing **CIF values across 1900+ global data centers**  
+- ⚡ Passionate about solving real-world problems with code and design
 
+---
 
+### 🛠 Tech Stack
 
+| Frontend        | Backend         | Platform & Tools         | Others              |
+|-----------------|-----------------|---------------------------|---------------------|
+| React.js        | Spring Boot     | SharePoint Online (SPFx)  | Git, CI/CD, Azure   |
+| TypeScript      | Java            | Power Platform, PowerApps | JUnit, Postman      |
+| JavaScript (ES6+)| JWT, REST APIs | Fluent UI / Material UI   | Responsive Design   |
 
-## 💞 Collaboration
+---
 
-I'm always on the lookout for exciting opportunities to collaborate on challenging problem-solving projects. If you share a passion for creating impactful software solutions, let's connect and build something amazing together!
+### 🏆 Highlights
 
-## 📫 Reach Out
+- 👨‍💻 **Software Consultant** at Mercedes-Benz R&D  
+- 📈 Built internal dashboards, forms, and submission systems using React + SPFx  
+- 🔍 Solved **600+ coding problems** on LeetCode & GeeksforGeeks  
+- 💡 Focused on building **performant**, **accessible**, and **pixel-perfect** UIs  
+- 🌐 Contributed to real-time tracking, reporting, and workflow solutions on SharePoint
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastava.vedant0106@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vedant0106/)
+---
 
-## </> Coding Platforms
+### 🧩 Featured Projects
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vedant0106/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Vedant0106/)
+- ✉️ **Newsletter Submission System**  
+  `React + SPFx`: A modern form integrated with SharePoint & Power Automate  
 
+- 📊 **Demand Dashboard**  
+  `React + Chart.js`: Tracks and visualizes team pipeline data dynamically  
 
-<!--
-**Vedant0106/Vedant0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 **Carbon CIF Calculator**  
+  `Spring Boot`: Backend service analyzing carbon impact from 1900+ global sites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Connect
+
+- 📬 Email: [vedant.email@gmail.com](mailto:vedant.email@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vedant0106/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant0106&show_icons=true&theme=radical" alt="Vedant's GitHub Stats" />
+</p>
+
+---
+
+### 💻 Coding Profiles
+
+- 🟢 [LeetCode](https://leetcode.com/u/Vedant_0106/)
+- 🟢 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vedant0106/practice)
