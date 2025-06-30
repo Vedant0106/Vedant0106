@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Vedant+Srivastava;   Frontend+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind+CSS;&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Vedant+Srivastava;Frontend+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind+CSS;&center=true&width=500&height=45" />
 </h1>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Passionate about **building modern frontend apps** with smooth UX and scalable architecture
-- ⚛️ Expert in **React.js**, **TypeScript**, **Tailwind CSS**, **Fluent UI**, and component design systems
-- 🎯 Focused on accessibility, responsive design, and UI/UX excellence
-- 🧩 Love transforming wireframes into pixel-perfect, production-ready UIs
-- 🧠 Solved 600+ DSA problems on **LeetCode** & **GeeksforGeeks**
+- 💼 Frontend Consultant @ **Mercedes-Benz R&D**
+- ⚛️ Expert in building scalable, performant, and responsive UIs with **React.js** and **TypeScript**
+- 🎯 Focused on pixel-perfect UI, accessibility (a11y), design systems, and DX
+- 🎨 UI/UX enthusiast: I love transforming wireframes into intuitive, production-ready interfaces
+- 🧠 Solved 600+ DSA problems on **LeetCode** and **GeeksforGeeks**
 
 ---
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 🧠 What I Believe In
+### 💼 Work Philosophy
 
 - 🔍 **Clean code** and **reusable components**
 - 🎨 **Design-first development** with strong attention to detail
@@ -78,6 +78,9 @@
   <a href="https://auth.geeksforgeeks.org/user/vedant0106/practice">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+  <a href="https://medium.com/@vedant0106">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -95,13 +98,3 @@
 ### 📌 Fun Fact
 
 > "Frontend development is not just coding — it's **crafting experiences**."
-
----
-
-Let me know if you'd like to:
-
-- Add **GIF previews or screen recordings** of any project  
-- Generate a **matching portfolio site** using React + Tailwind  
-- Include **open-source badges**, activity graphs, or blog post previews  
-
-I can build you an entire **developer brand** from this if you want 😎
