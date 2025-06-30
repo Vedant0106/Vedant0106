@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>UI/UX Engineer @ Mercedes-Benz R&D</strong>
+  <strong>Software Engineer @ Mercedes-Benz R&D</strong>
 </p>
 
 <p align="center">
