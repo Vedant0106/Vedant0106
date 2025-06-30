@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 -  Frontend Consultant @ **Mercedes-Benz R&D**
 -  Expert in building scalable, performant, and responsive UIs with **React.js** and **TypeScript**
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ My Tech Toolbox
+### My Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,scss,css,html,figma,materialui,git,vite&theme=light" />
