@@ -91,8 +91,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedant0106&show_icons=true&theme=radical" alt="Vedant's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant0106&theme=radical&hide_border=false" alt="Streak" />
+<!--   <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant0106&theme=radical&hide_border=false" alt="Streak" /> -->
 </p>
 
 ---
