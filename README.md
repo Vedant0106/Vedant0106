@@ -16,8 +16,8 @@
 
 - **Frontend Consultant @ Mercedes-Benz R&D**
 - Expert in **React.js + TypeScript**, building scalable and performant UIs  
-- Passionate about **pixel-perfect design, accessibility (WCAG/a11y), design systems, and developer experience (DX)**  
-- UI/UX enthusiast: I love transforming **Figma prototypes** into **production-ready interfaces**  
+- Passionate about building scalable solutions 
+- UI/UX enthusiast: I love transforming **Figma prototypes** into **production-ready code**  
 - Solved **600+ DSA problems** on **LeetCode** and **GeeksforGeeks**  
 
 ---
@@ -25,7 +25,7 @@
 ## 🛠 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,next,redux,tailwind,scss,css,html,figma,materialui,git,vite,jest&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,next,redux,css,html,figma,git&theme=light" />
 </p>
 
 ---
@@ -48,37 +48,6 @@
 
 ---
 
-### 🔹 Newsletter Submission System  
-*A modern **React + Fluent UI** single-page app for submitting internal newsletters with intuitive UX and dynamic field logic.*  
-⮞ Built for **Mercedes-Benz R&D** | React, TypeScript, Tailwind  
-
----
-
-### 🔹 Demand Dashboard  
-*A **real-time dashboard** to track team workload and demands.*  
-⮞ Features filters, dynamic graphs, assignment tracking, and responsive layouts  
-⮞ **Tech:** React, Fluent UI, Chart.js  
-
----
-
-### 🔹 Carbon CIF Calculator  
-*Frontend integrated with a **Spring Boot backend** to calculate and visualize carbon intensity for 1900+ data centers.*  
-⮞ React, REST API integration, Tailwind  
-
----
-
-### 🔹 Project Assignment Visualizer  
-*Tool to visualize **team allocations** with dropdown filters and charts.*  
-⮞ React hooks, Chart.js, modular state management  
-
----
-
-### 🔹 Reusable UI Component Library  
-*A collection of **React + TypeScript** components (Modals, Dropdowns, Loaders, Toasts, etc.)*  
-⮞ Styled with SCSS + Tailwind for design consistency  
-
----
-
 ## 💼 Work Experience
 
 **Mercedes-Benz R&D (Aug 2023 – Present)**  
@@ -88,14 +57,6 @@
 - Integrated **REST APIs**, structured state management with **Hooks & Context API**  
 - Ensured 90%+ test coverage with **Jest + React Testing Library**  
 - **Tech Stack:** React, TypeScript, Next.js, Tailwind, SCSS, MUI  
-
----
-
-## 🎓 Education
-
-**B.E. Information Science Engineering**  
-JSS Academy of Technical Education, Bangalore (2019–2023)  
-CGPA: **7.4/10**
 
 ---
 
