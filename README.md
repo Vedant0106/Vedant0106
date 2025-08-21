@@ -25,7 +25,7 @@
 ## 🛠 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,next,redux,css,html,figma,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,next,redux,css,html,git&theme=light" />
 </p>
 
 ---
