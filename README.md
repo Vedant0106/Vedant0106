@@ -31,28 +31,31 @@
 
 ## 🚀 Featured Projects  
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  
-### [QuickForm](https://quickform-delta.vercel.app/)  
-<img src="https://raw.githubusercontent.com/Vedant0106/QuickForm/main/preview.png" alt="QuickForm Preview" width="100%" />  
+---
+
+### 🔹 [QuickForm](https://quickform-delta.vercel.app/)  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vedant0106/QuickForm/main/preview.png" alt="QuickForm Preview" width="80%" />
+</p>
+
 🔹 Drag-and-drop **Form Builder** with validation & persistent storage.  
 **Tech:** React, Redux, MUI, TypeScript  
-[🔗 Live Demo](https://quickform-delta.vercel.app/) | [💻 Code](https://github.com/Vedant0106/QuickForm)  
 
-</td>
-<td align="center" width="50%">
-  
-### [Diagram Flow Editor](https://diagram-flow-self.vercel.app/editor)  
-<img src="https://raw.githubusercontent.com/Vedant0106/DiagramFlow/main/preview.png" alt="DiagramFlow Preview" width="100%" />  
-🔹 Browser-based **flowchart & wireframe editor** with connectors, shape editing & export.  
+🔗 [Live Demo](https://quickform-delta.vercel.app/) | [💻 Code](https://github.com/Vedant0106/QuickForm)  
+
+---
+
+### 🔹 [Diagram Flow Editor](https://diagram-flow-self.vercel.app/editor)  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vedant0106/DiagramFlow/main/preview.png" alt="DiagramFlow Preview" width="80%" />
+</p>
+
+🔹 Browser-based **Flowchart & Wireframe Editor** with drag-and-drop connectors, shape editing & export.  
 **Tech:** React, Redux, Next.js, TypeScript  
-[🔗 Live Demo](https://diagram-flow-self.vercel.app/editor) | [💻 Code](https://github.com/Vedant0106/DiagramFlow)  
 
-</td>
-</tr>
-</table>
+🔗 [Live Demo](https://diagram-flow-self.vercel.app/editor) | [💻 Code](https://github.com/Vedant0106/DiagramFlow)  
 
 ---
 
